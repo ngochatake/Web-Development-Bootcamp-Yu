@@ -3,13 +3,15 @@ body {
 }
 
 h1 {
-	font-family: 'Montserrat-Black', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
 	font-size: 3.5rem;
 	line-height: 1.5;
 }
 
 h2 {
-	font-family: 'Montserrat-Bold', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
 	font-size: 3rem;
 	line-height: 1.5;
 }
@@ -30,7 +32,8 @@ h2 {
 
 .nav-link {
 	font-size: 1.2rem;
-	font-family: 'Montserrat-Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
 }
 
 .download-button {
@@ -54,7 +57,8 @@ h2 {
 }
 
 h3 {
-	font-family: 'Montserrat-Bold', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
 	font-size: 1.5rem;
 }
 
@@ -144,7 +148,8 @@ h3 {
 }
 
 .cta-heading {
-	font-family: 'Montserrat-Black', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
 	font-size: 3.5rem;
 	line-height: 1.5;
 }
