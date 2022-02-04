@@ -69,9 +69,3 @@ app.post("/failure", function (req, res) {
 app.listen(PORT, () => {
     console.log("Server is running on port " + PORT);
 });
-
-// API Key
-//3c586acf8ad619a8f64e40631c996ea3-us20
-
-//List ID == Audience ID
-//6d40bf5fdf
